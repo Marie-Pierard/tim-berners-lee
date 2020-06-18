@@ -25,6 +25,7 @@ body{
     flex-direction: row;
     color: rgb(201, 197, 197);
     height:  20vh;
+    min-width: 50%;
 }
 .second-box ul{
     align-items: center;
